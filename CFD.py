@@ -1,5 +1,4 @@
 from asyncio.windows_events import NULL
-from distutils.log import log
 import requests
 import os
 from PIL import Image
