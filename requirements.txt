@@ -1,0 +1,4 @@
+requests
+os
+PIL
+asyncio.windows_events

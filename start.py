@@ -37,6 +37,8 @@ def ToPdf(pagesNumber, folder):
                 os.remove(f'{folder}\{i}.png')
     print("The book has been extracted as a pdf. It's recommended to optimize it through a PDF editor.")
 
+print('Pearson eText Downloader 1.0.0 by Giovanni Masi')
+print('In case of problems write me on Telegram @itsjustme00')
 cookie = input('Enter etext-cdn-token: ')
 bookId = input('Enter BookId: ')
 pagesNumber = int(input('Enter pages number: ')) + 1
