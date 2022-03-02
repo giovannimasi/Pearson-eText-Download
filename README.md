@@ -4,11 +4,10 @@ In case of problems contact me on Telegram @itsjustme00
 If you think this tool is shit...note that actually Pearson is shit: pages are provided through a simple png for each page.
 
 Anyway...thats how to use it
-
+## Requirements
+In order to install all requirements open your terminal and just write `pip install -r requirements.txt`
 ## Tutorial
 For using this tool you need to have the book activated in your Pearson account...NO PIRACY
-
-Make sure python is installed...
 
 Finally these are the information you'll need:
 
