@@ -1,5 +1,5 @@
 # Pearson-eText-Download 1.0.0
-In case of problems contact me on Telegram @itsjustme00
+In case of problems contact me on Telegram @giovannimasi_03
 
 If you think this tool is shit...note that actually Pearson is shit: pages are provided through a simple png for each page.
 
